@@ -1,0 +1,3 @@
+11:29:40.062 [restartedMain] INFO  t.qiuming.likesys.LikeSysApplication - Starting LikeSysApplication using Java 11.0.15 on PC with PID 9451 (/home/yang/WorkSpace/Code/Java/likeSys/target/classes started by yang in /home/yang/WorkSpace/Code/Java/likeSys)
+11:29:40.065 [restartedMain] INFO  t.qiuming.likesys.LikeSysApplication - No active profile set, falling back to 1 default profile: "default"
+11:29:42.671 [restartedMain] INFO  t.qiuming.likesys.LikeSysApplication - Started LikeSysApplication in 2.906 seconds (JVM running for 3.363)
